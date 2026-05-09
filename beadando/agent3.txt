@@ -1,0 +1,13 @@
+AGENT: alma
+STEP
+name: korte
+prompt: szilva
+systemPrompt: eper
+output: INT
+ENDSTEP
+STEP
+name: korte
+prompt: szilva
+systemPrompt: eper
+output: INT
+ENDSTEP
